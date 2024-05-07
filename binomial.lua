@@ -7,7 +7,7 @@ function fac(n)
     return r
 end
 
-function binomial(n, k)
+function binomial(n, k) -- n choose k - of binomial coefficient
     return fac(n) / (fac(k) * fac(n - k))
 end
 
