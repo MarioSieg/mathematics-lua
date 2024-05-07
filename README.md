@@ -24,6 +24,6 @@ $$
 \binom{n}{k}:=\prod_{j=1}^k \frac{n-j+1}{j}=\frac{n(n-1) \cdot \ldots \cdot(n-k+1)}{1 \cdot 2 \cdot \ldots \cdot k}
 $$
 
-3. Limits
+3. Sequences
 
-...
+A sequence is formally defined as a function whose domain is an interval of integers.
